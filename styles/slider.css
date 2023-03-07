@@ -1,0 +1,16 @@
+
+.slides {
+  padding: 1.5%;
+  background-color: red;
+  width: 30%;
+}
+.slide{
+  display: none;
+}
+
+.block {
+  display: block;
+  object-fit: cover;
+}
+
+
